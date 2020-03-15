@@ -1,4 +1,5 @@
 # TakaAntiCheat
+## PLEASE NOTE: Future issues should be taken to https://bit.ly/TakaGithub. This repository will NO LONGER be active. 
 
 Taka(also known as TakaAC or TakaAntiCheat) is a highly advanced anticheat, with it's numerous checks, It has been made to stop the hackers in the most effective way possible.
 Taka has been in progress from 2 years, and now I present you an advanced anticheat, which will prevent the cheaters from using hacks and harming your server.
