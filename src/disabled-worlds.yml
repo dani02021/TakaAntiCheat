@@ -1,0 +1,25 @@
+###################################
+#Taka Anti-Cheat                  #
+#                                 #
+#Created by dani02                #
+###################################
+#
+#Notes:
+#1. Checks without "cancelMove" are move canceled immediately!
+#2. %m% - mode, %player% = player, %hack% = hack, %vl% = violation.
+#3. TAC supports multi commanding.
+#4. CancelMove VL is different than Threshold's VL, when CancelMove VLs are reached then Threshold's VL will be added.
+#5. Check if your config is written correctly: http://yaml-online-parser.appspot.com/.
+
+#
+#DO NOT CHANGE
+#
+config-version: 1.0
+#
+#Disable in World
+#Disable all the checks in these words
+#
+anticheat-disable-in-world:
+    - "exampleworld1"
+    - "exampleworld2"
+    - "exampleworld3"

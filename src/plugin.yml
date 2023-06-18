@@ -1,0 +1,13 @@
+name: TakaAntiCheat
+version: dev
+author: dani02
+main: bg.dani02.taka.anticheat.Taka
+softdepend: [PlaceholderAPI, SurvivalMechanics, mcMMO, RealDualWield, ProjectKorra, VeinMiner, VeinMine]
+depend: [ProtocolLib]
+api-version: 1.13
+commands:
+  taka:
+    description: Taka main command
+    aliases: [tac, takaanticheat]
+  treport:
+    description: Taka report system
